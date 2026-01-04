@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi👋 I am Wojciech Nowak
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-nowak-775196308/)
 
 <!--
 **Klar00/Klar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
