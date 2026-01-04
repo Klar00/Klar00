@@ -11,6 +11,10 @@ I’m a Computer Science student with hands-on technical experience, combining a
 
 I enjoy working with technology that has a real impact and I’m motivated to continuously improve my skills through practical projects and learning by doing.
 
+## Technologies
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+
 <!--
 **Klar00/Klar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
