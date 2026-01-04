@@ -13,7 +13,7 @@ I enjoy working with technology that has a real impact and I’m motivated to co
 
 ## Technologies
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
 
 <!--
 **Klar00/Klar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
