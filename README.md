@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-nowak-775196308/)
 
+## Introduction 
+I’m a 3rd-year university student, actively developing my skills in SQL, database design, and data analysis. I’m passionate about how structured data and well-designed databases can support real decision-making and process automation.
 <!--
 **Klar00/Klar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
