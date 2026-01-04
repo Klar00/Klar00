@@ -4,6 +4,9 @@
 
 ## Introduction 
 I’m a 3rd-year university student, actively developing my skills in SQL, database design, and data analysis. I’m passionate about how structured data and well-designed databases can support real decision-making and process automation.
+
+## About me
+I am a third-year Computer Science student specializing in programming at WSB Merito University in Gdańsk. I am focused on developing my skills in programming, data analysis, and modern technologies, and I am constantly looking for new challenges. I am communicative, detail-oriented, and eager to continuously improve my qualifications. I am highly motivated to gain further experience in IT and software development projects.
 <!--
 **Klar00/Klar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
